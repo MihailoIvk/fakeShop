@@ -1,3 +1,8 @@
+# About project
+This dummy project called ‘FakeShop’ I created to focus solely on react skills. In this project, I used various npm packages like Axios, clean-css, react-redux, and react-router-dom. I used Axios to fetch data from fakestoreapi.com and I listed it on my home page and styled it with semantic-ui. This is my first time using semantic ui, but documentation is very readable and easy to use. Click on the product gives us more fetched data and more details about the product. Since this API only gives 20 products, I couldn’t reach the goal I wanted, and that is the multipage website. Since this is just a dummy project and doesn’t have real-life use, I chose not to deploy it.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
